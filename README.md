@@ -28,7 +28,7 @@ Task1
 --> cleaned_dataset.csv
 --> med.py
 --> README.md
---> code_output.png
+--> task1_output
 
 
 
