@@ -13,7 +13,7 @@ The objective of this project is to clean and preprocess a raw dataset by identi
 
 ## Dataset
 
-Medical Dataset (`medical.csv`)
+Medical Dataset ('medical.csv')
 
 ## Project Files
 
@@ -22,6 +22,14 @@ medical.csv                 # Original dataset
 cleaned_dataset.csv         # Cleaned dataset
 med.py                      # Python script for data cleaning
 README.md                   # Project documentation
+
+Task1
+--> medical.csv
+--> cleaned_dataset.csv
+--> med.py
+--> README.md
+--> code_output.png
+
 
 
 ## Data Cleaning Steps
