@@ -1,38 +1,57 @@
 # Task1
-# Data Cleaning and Preprocessing
+# Data Cleaning and Preprocessing – Task 1
 
 ## Objective
 
-Clean and prepare a raw dataset by handling missing values, duplicate records, inconsistent formats, and incorrect data types using Python (Pandas).
-
-## Dataset
-
-Customer Personality Analysis (Kaggle)
+The objective of this project is to clean and preprocess a raw dataset by identifying and fixing common data quality issues such as missing values, duplicate records, inconsistent formats, and incorrect data types using Python and Pandas.
 
 ## Tools Used
 
 * Python 3
 * Pandas
-* VS Code
+* Visual Studio Code (VS Code)
 
-## Steps Performed
+## Dataset
 
-* Loaded the dataset.
-* Checked for missing values.
-* Removed duplicate rows.
-* Renamed column names to lowercase.
-* Standardized text values.
-* Converted date columns to datetime format.
-* Verified and corrected data types.
-* Saved the cleaned dataset.
+Medical Dataset (`medical.csv`)
 
-## Files Included
+## Project Files
 
-* customer.csv (Original Dataset)
-* cleaned_customer.csv (Cleaned Dataset)
-* data_cleaning.py (Python Code)
-* README.md
 
-## Outcome
+medical.csv                 # Original dataset
+cleaned_dataset.csv         # Cleaned dataset
+med.py                      # Python script for data cleaning
+README.md                   # Project documentation
 
-The dataset was cleaned and prepared for further analysis by removing inconsistencies, duplicates, and missing values.
+
+## Data Cleaning Steps
+
+* Loaded the dataset using Pandas.
+* Displayed the first five rows of the dataset.
+* Checked dataset information.
+* Identified missing values.
+* Removed duplicate records.
+* Renamed column headers to a consistent format.
+* Corrected data types where required.
+* Saved the cleaned dataset as `cleaned_dataset.csv`.
+
+## Output
+
+The cleaned dataset is stored in:
+
+cleaned_dataset.csv
+
+
+## Skills Learned
+
+* Data Cleaning
+* Data Preprocessing
+* Handling Missing Values
+* Removing Duplicates
+* Data Type Conversion
+* Column Renaming
+* Working with Pandas
+
+## Author
+
+Navadeep Mukthala
