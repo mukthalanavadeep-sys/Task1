@@ -31,7 +31,6 @@ Customer Personality Analysis (Kaggle)
 * customer.csv (Original Dataset)
 * cleaned_customer.csv (Cleaned Dataset)
 * data_cleaning.py (Python Code)
-* Screenshots (Optional)
 * README.md
 
 ## Outcome
